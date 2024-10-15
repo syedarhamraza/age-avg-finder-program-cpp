@@ -22,7 +22,7 @@ int main()
 
     // now finding avg which is Average = Sum of Values/Number of Values
     // now we sum all items in array and stored it on sum
-    // and lengthScores tells us that how my values are in array
+    // and lengthAge tells us that how my values are in array
 
     avg = sum / lengthAge;
 
